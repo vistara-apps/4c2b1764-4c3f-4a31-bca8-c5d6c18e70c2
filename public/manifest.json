@@ -1,0 +1,14 @@
+{
+  "name": "CookieClarity",
+  "description": "CookieClarity is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://4c2b1764-4c3f-4a31-bca8-c5d6c18e70c2.vercel.app",
+  "properties": {
+    "app": {
+      "name": "CookieClarity",
+      "description": "CookieClarity is a Base Mini App built with Zara.",
+      "url": "https://4c2b1764-4c3f-4a31-bca8-c5d6c18e70c2.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

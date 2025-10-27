@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "CookieClarity",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://4c2b1764-4c3f-4a31-bca8-c5d6c18e70c2.vercel.app",
+    "imageUrl": "https://4c2b1764-4c3f-4a31-bca8-c5d6c18e70c2.vercel.app/image.png",
+    "splashImageUrl": "https://4c2b1764-4c3f-4a31-bca8-c5d6c18e70c2.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://4c2b1764-4c3f-4a31-bca8-c5d6c18e70c2.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "CookieClarity is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://4c2b1764-4c3f-4a31-bca8-c5d6c18e70c2.vercel.app/screenshot1.png",
+      "https://4c2b1764-4c3f-4a31-bca8-c5d6c18e70c2.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://4c2b1764-4c3f-4a31-bca8-c5d6c18e70c2.vercel.app/hero.png",
+    "tagline": "CookieClarity",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "CookieClarity",
+    "ogDescription": "CookieClarity is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://4c2b1764-4c3f-4a31-bca8-c5d6c18e70c2.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+CookieClarity+at+https%3A%2F%2F4c2b1764-4c3f-4a31-bca8-c5d6c18e70c2.vercel.app"
+  }
+}
